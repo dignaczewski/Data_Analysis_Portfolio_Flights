@@ -122,6 +122,8 @@ celerybeat.pid
 
 # Environments
 .env
+DB_pass.env
+/notebooks/DB_pass.env
 .venv
 env/
 venv/
