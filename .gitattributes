@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+data/processed/flight_df_03.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/flight.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/flight_df_01.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/flight_df_02.csv filter=lfs diff=lfs merge=lfs -text
