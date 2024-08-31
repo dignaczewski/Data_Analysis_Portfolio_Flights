@@ -2,9 +2,7 @@ Opis
 
 W tym warsztacie wcielimy się w rolę konsultanta pracującego dla jednego z przewoźników lotniczych, którego zadaniem jest optymalizacja procesu dostarczania oraz analizowania danych.
 
-Dane, którymi będziemy się posługiwać, pochodzą ze znanej nam już platformy Kaggle. W opisie zbioru znajdziemy dość szczegółowy opis, dlaczego dane powstały oraz co było inspiracją do ich wygenerowania – zalecamy zapoznanie się z dostępnym tam opisem, choć nie jest to konieczne.
-
-Ze względu na swój wolumen (ponad 9 milionów wierszy) zbiór danych został odpowiednio zmniejszony, aby ułatwić pracę.
+Dane, którymi będziemy się posługiwać, pochodzą ze znanej platformy Kaggle. W opisie zbioru znajdziemy dość szczegółowy opis, dlaczego dane powstały oraz co było inspiracją do ich wygenerowania. Ze względu na swój wolumen (ponad 9 milionów wierszy) zbiór danych został odpowiednio zmniejszony, aby ułatwić pracę.
 
 Kontekst biznesowy
 
